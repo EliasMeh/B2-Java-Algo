@@ -1,7 +1,7 @@
 # B2-Java-Algo
 Réponses aux questions:
 
-1.1:Fait.\n
+1.1:Fait.
 1.2: Puisque jr1 et jr2 n'ont pas la même référence mémoire, cette évaluation renvoit donc False.
 1.3 :De même que pour la question précédente, à l'origine equals() fait la même comparaison que l'opérateur « == », ce qui renvoit ici aussi False.
 1.6 :Puisque jr1 et jr2 n'ont pas la même référence mémoire, cette évaluation renvoit donc False.
